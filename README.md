@@ -62,7 +62,7 @@ No importa qué metodología elija utilizar en sus proyectos, se beneficiará de
 ```
 
 ## 2. Ejemplos prácticos
-![Ejemplo - Ilustración](docs/images/example.png)
+![Ejemplo - Ilustración](example.png)
 
 #### HTML
 ```html
